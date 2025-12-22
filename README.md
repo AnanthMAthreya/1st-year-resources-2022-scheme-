@@ -80,3 +80,4 @@ This repository also contains a few selected chapters for all the 1st year Math 
 - [2nd year resources](https://github.com/AnanthMAthreya/2nd-year-resources-2022-scheme-rvce)
 - [3rd year resources](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce)
 - [4th year resources](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE)
+- [Placement preparation](https://github.com/AnanthMAthreya/Placement_prep)
